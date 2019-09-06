@@ -1,0 +1,10 @@
+# folders
+.0x-artifacts/
+build/
+coverage/
+
+# files
+.env
+yarn-debug.log*
+yarn-error.log*
+
